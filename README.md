@@ -4,8 +4,8 @@
 <p><h2>No final o usuário pode ver em qual posiçao do ranking ele se encontra acessando o menu lateral</p></h2>
 <p><h2>Também é possivel atualizar os dados do jogador e também deletar a conta</p></h2>
 <p><h2>Grupo : </h2> </p>
-<p><h3> 
-Luiz Fernando Amarino Gomes Leal // Matricula : 0050016658
+<h3> 
+<p>Luiz Fernando Amarino Gomes Leal // Matricula : 0050016658
 <p>Pedro Coutinho Duarte // Matricula : 0050016979
 <p>Rodrigo Luiz Vergara // Matricula : 0050016531
- </h2></p>
+</h2>
