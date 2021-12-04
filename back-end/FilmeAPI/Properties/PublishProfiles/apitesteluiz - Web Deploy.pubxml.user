@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0Rn56hnZtka9fxvp9Dy09wAAAAACAAAAAAAQZgAAAAEAACAAAACvjzy+ckj3jYyFQM1rzTW27Dtzzi9luzpPteI24gAn3AAAAAAOgAAAAAIAACAAAAAQjAeXmsyaOzJv3YzCR9ETghsV1aOg7DHAj7NI7TShYYAAAABdh6mFNaXciz/FzkNblxlBBQpt6L210l3slmHFpEYG7Oh7Nk8rZmWowLXCVdu6eu+KoiT6oM5t7dih6J6KsuUg3x8YJfIg8l5JJd3hD3NdpBETo+hyNm81OsR60I0+WDLrGYO7AOJJpbtBWlkbiPB8SCbEjE7AqgcHE6gGrSlagEAAAABQJGF4Pbi/2t9GlT8pa0iV6Fweri9iOSRzrNo1cGfRzH+KKTLL5xtmnZ3wML0mRHiljzzK/l72RFDLBJvLMJ/Z</EncryptedPassword>
+    <History>True|2021-11-26T01:49:17.5464882Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <AzureDBConnectionStrings Include="Data Source=192.168.0.15\WSGETEST;Initial Catalog=API;User ID=wsge;Password=12345" />
+    <AzureDBConnectionStrings Include="Data Source=tcp:luizjdteste.database.windows.net,1433;Initial Catalog=api;User Id=wsge@luizjdteste;Password=Jd@305503" />
+  </ItemGroup>
+</Project>
