@@ -6,6 +6,6 @@
 <p><h2>Grupo : </h2> </p>
 <p><h3> 
 Luiz Fernando Amarino Gomes Leal // Matricula : 0050016658
-Pedro Coutinho Duarte // Matricula : 0050016979
-Rodrigo Luiz Vergara // Matricula : 0050016531
+<p>Pedro Coutinho Duarte // Matricula : 0050016979
+<p>Rodrigo Luiz Vergara // Matricula : 0050016531
  </h2></p>
